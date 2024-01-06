@@ -1,2 +1,1 @@
-This is test project for GitHub
-
+Hello? Hexlet! How are you?
